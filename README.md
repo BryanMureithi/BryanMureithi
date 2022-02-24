@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BryanMureithi
-- 👀 I’m interested in programming and software development.
-- 🌱 I’m currently learning Python as an Object Oriented Language and Cloud Computing.
+- 👀 I’m growing to be better at programming and software development.
+- 🌱 So far I have done a couple of languages which I am conversant with.Some of them are Python, Java, C, Javascript, Vue Js, Html, CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Email : brymureithi@gmail.com
 
