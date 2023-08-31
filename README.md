@@ -1,18 +1,14 @@
-- 👋 Hi there, I’m @BryanMureithi
-- 👀 I am a Full-stack Software Developer based in Nairobi, Kenya.
-- 🌱 Studying Bachelors Computer Science at The Catholic University of Eastern Africa, Class of 2024.
+# 🧑🏾Bryan Mureithi
+👋 Hi there! I'm a passionate software developer and UI/UX designer.I thrive on bringing ideas to life through code and design. From concept to execution, I take a hands-on approach to every project, starting with meticulous planning and design, and ending with elegant solutions that address real-life challenges.
+My coding journey is a journey of creation. Each project I undertake is built from the ground up, with a strong foundation of design principles and coding practices.Continuous learning is my mantra. In the rapidly evolving landscape of software development and design, I'm always exploring new tools, frameworks, and design trends to stay at the forefront of innovation.
 
-ABOUT ME
+## 📊Stats
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BryanMureithi&show_icons=true&theme=transparent" />
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanMureithi&layout=compact"/>
 
-I have 2 years coding experience. I started in 2020 with HTML and CSS, building simple web pages and expanding my knowledge over time.
-I also started learning Javascript to create dynamic web apps. In 2021, I advanced to learning the Vue.js framework which made
-using javascript even easier.During this time I also learned UI/UX design using Figma. I also learned Tailwind CSS and used it in most of my projects.
-For the backend, I am currently learning Django and PostgreSQL.
-My goal with coding is to help people. It is so satisfying to be able to create something people can use to make their lives
-easier.
-
-HOBBIES
-
-I love listening to music all the time.
-I play basketball and football which I'm very good at.
-I also love gaming.
+## 🧑🏾‍💻Languages
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img align="left" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="left" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
